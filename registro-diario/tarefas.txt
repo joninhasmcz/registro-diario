@@ -1,0 +1,8 @@
+Recorrentes: [Sistemas] Atualização do Sistema Eventos :stopwatch:
+Recorrentes: [Sites] Estudar módulos, plugins, componentes do joomla  4 :person_running::arrows_clockwise:
+Ontem: [Sites] Módulo Dropdown Setur/Iteral 🏃
+Ontem: Reunião com Erycles e Galvão sobre o módulo dropdown Setur 🆕 ✅
+Hoje: [Sites] Implementação do módulo Acordeon do Site Iteral 🏃
+Hoje: [Geral] Implementação de um sistema de registro diário
+Amanha: Implementação do módulo Acordeon do Site Iteral ✅
+
